@@ -1,73 +1,70 @@
-# StudyNest: Responsive Landing Page (Figma UI/UX)
+# EduSpark – Responsive Product Landing Page
 
-**Student name:** _[Your name]_
-**Course:** UI/UX using Figma, IPS
-**Figma file link:** _[Paste your Figma link here, set to "Anyone with the link can view"]_
+**Student Name:** Yash Patel  
+**Enrollment No.:** 202403103510082  
+**Division:** 5A  
+**Subject:** IPS – UI/UX Design Using Figma
 
----
+## Figma Project Link
 
-## 1. Product Idea
+[Open EduSpark – Figma Design](https://www.figma.com/design/eyr7BqcCsQ4o9WZ1piQZHF/EduSpark---Yash-Patel---IPS-UIUX?node-id=0-1)
 
-**StudyNest** is a fictional study-planning and focus app for college students. It helps them organize assignments, build weekly study schedules, track exam deadlines, and stay focused with built-in study timers.
+## Project Description
 
-## 2. Target Audience
+EduSpark is a fictional online learning platform designed for students who want to learn programming, technology, and career-ready skills.
 
-- College and university students (ages 17-24)
-- Students who struggle to balance classes, assignments, and exams
-- Mobile-first users who want a clean, distraction-free tool
+## Objective
 
-## 3. Design System
+To design an attractive, user-friendly, and responsive product landing page using Figma's Auto Layout, reusable components, and shared design styles.
 
-### Color Styles
+## Target Audience
 
-| Style Name | Hex | Usage |
-|---|---|---|
-| Primary | `#4F46E5` | Buttons, links, logo |
-| Primary Dark | `#3730A3` | Button hover, footer |
-| Secondary | `#F59E0B` | Accents, icons, highlights |
-| Background | `#F8FAFC` | Page background |
-| Surface | `#FFFFFF` | Cards, header |
-| Text Dark | `#0F172A` | Headings |
-| Text Muted | `#64748B` | Body text, descriptions |
+- College students
+- Programming beginners
+- Job seekers
+- People interested in developing technical and career-ready skills
 
-### Typography Styles (Font: Poppins for headings, Inter for body)
+## Main Sections
 
-| Style Name | Font | Size / Weight |
-|---|---|---|
-| H1 | Poppins | 56 px / Bold |
-| H2 | Poppins | 36 px / SemiBold |
-| H3 | Poppins | 22 px / SemiBold |
-| Body | Inter | 18 px / Regular |
-| Button | Inter | 16 px / SemiBold |
-| Caption | Inter | 14 px / Regular |
+- Header with logo, navigation links, and call-to-action button
+- Hero section with heading, description, illustration, and Explore Courses button
+- Three feature cards
+- Footer with useful links and contact information
+- Desktop and mobile layouts
 
-### Spacing
+## Project Deliverables
 
-Spacing follows an 8 px grid: 8, 16, 24, 32, 64, 96. Page sections have 96 px vertical padding and 120 px side padding on desktop.
+- Desktop landing page
+- Mobile landing page
+- Responsive UI design
+- At least three reusable components
+- Auto Layout
+- Shared color and typography styles
+- Design documentation
 
-## 4. Page Structure (Desktop frame: 1440 x 1024)
+## Design System
 
-1. **Header** (Auto Layout, horizontal): logo (left), links Home / Features / Pricing / Contact (center), "Get Started" button (right).
-2. **Hero** (Auto Layout, horizontal): left side has the H1 "Plan smarter. Study calmer.", a short description, and the "Start Free" primary button. The right side has an app illustration.
-3. **Features** (Auto Layout, horizontal, 3 cards): Smart Planner, Deadline Reminders, Focus Timer. Each has an icon, title, and short text.
-4. **Footer** (Auto Layout): logo, links (About, Privacy, Terms, Contact), and the copyright line.
+| Element | Value |
+|---|---|
+| Primary Purple | `#6047F5` |
+| Navy | `#151A43` |
+| Background | `#F6F5FF` |
+| White | `#FFFFFF` |
+| Body Text | `#737B9A` |
+| Light Purple | `#E8E4FF` |
+| Typeface | Inter |
 
-## 5. Reusable Components
+## Tools and Techniques
 
-1. **Button / Primary**: with variants for Default and Hover.
-2. **Feature Card**: icon, title, description. Used 3 times as instances.
-3. **Nav Bar (Header)**: logo, links, and CTA button.
-4. **Footer**: reused as a single instance.
+- Figma
+- Auto Layout
+- Reusable Components
+- Color Styles
+- Typography Styles
+- Responsive Design
 
-## 6. Design Explanation
+## Author
 
-StudyNest is designed for busy college students who need a quick, stress-free way to plan their studies. The indigo primary color suggests focus and trust, while the amber accent adds energy to icons and highlights without overwhelming the page. Poppins gives headings a friendly, modern look, and Inter keeps body text readable at small sizes.
-
-The layout follows a simple top-to-bottom flow: the header offers an immediate call-to-action, the hero explains the value in one headline and one button, and the three feature cards give quick proof of usefulness. Generous white space and a consistent 8 px spacing system keep the page clean and easy to scan. Auto Layout is used throughout, so spacing and alignment stay consistent and the layout adapts easily when content changes or the frame is resized for tablet and mobile screens.
-
-## 7. Files in this Repository
-
-- `README.md`: project description and design explanation
-- `landing-page.png`: exported desktop design
-- `components.png`: screenshot of the reusable components
-- `styles.png`: screenshot of color and text styles
+**Yash Patel**  
+Enrollment No.: 202403103510082  
+Division: 5A
